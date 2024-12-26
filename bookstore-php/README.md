@@ -1,24 +1,30 @@
-# Полезные ссылки (на всякий случай): 
+Основное
 
-# Основные страницы:
-1) Каталог товаров
-URL: http://localhost/bookstore-php/eshop/catalog
-2) Корзина:
-URL: http://localhost/bookstore-php/eshop/basket
-3) Оформление заказа:
-URL: http://localhost/bookstore-php/eshop/create_order
-4) Страница входа (авторизация):
-URL: http://localhost/bookstore-php/eshop/login.php
+Каталог товаров
+http://localhost/bookstore-php/eshop/catalog
 
-# Админка:
-1) Панель администратора:
-URL: http://localhost/bookstore-php/eshop/app/admin/admin.php
-2) Добавление товара в каталог:
-URL: http://localhost/bookstore-php/eshop/app/admin/add_item_to_catalog.php
-3) Просмотр заказов (список заказов):
-URL: http://localhost/bookstore-php/eshop/app/admin/orders.php
-4) Добавление нового пользователя:
-URL: http://localhost/bookstore-php/eshop/app/admin/create_user.php
-5) Выход из системы (разлогин):
-URL: http://localhost/bookstore-php/eshop/app/admin/logout.php (перекидывает на login)
+Авторизация
+http://localhost/bookstore-php/eshop/login.php
 
+Оформление заказа
+http://localhost/bookstore-php/eshop/create_order
+
+Корзина
+http://localhost/bookstore-php/eshop/basket
+
+Админ
+
+Панель админа
+http://localhost/bookstore-php/eshop/app/admin/admin.php
+
+Добавление товара в каталог
+http://localhost/bookstore-php/eshop/app/admin/add_item_to_catalog.php
+
+Новый пользователь
+http://localhost/bookstore-php/eshop/app/admin/create_user.php
+
+Список заказов
+http://localhost/bookstore-php/eshop/app/admin/orders.php
+
+Выход из системы
+http://localhost/bookstore-php/eshop/app/admin/logout.php
